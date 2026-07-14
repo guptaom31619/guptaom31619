@@ -12,12 +12,12 @@
 
 <br/>
 
-I'm a **Full-Stack AI Engineer** and BITS Pilani Dubai CS graduate (2021–2025), currently based in **Hyderabad, India**. I love building production AI systems — not just demos — across RAG, multi-agent platforms, ML pipelines, computer vision, and cloud-native apps on **GCP**.
+I'm a **Full-Stack AI Engineer** and BITS Pilani Dubai CS graduate (2021–2025), currently based in **Hyderabad, India**. I love building production AI systems — not just demos — across RAG, multi-agent platforms, ML pipelines, computer vision, and cloud-native apps on **GCP and AWS**.
 
 ### Some highlights:
 - 🤖 Shipping **RAG systems**, **LangGraph multi-agent platforms**, and LLM tooling end-to-end
 - 🧠 Building **computer vision**, **quant trading**, and **geopolitical intelligence** projects
-- ☁️ Deploying on **GCP / Docker / CI-CD** with clean architecture and real product UX
+- ☁️ Deploying on **GCP & AWS / Docker / CI-CD** with clean architecture and real product UX
 - 💼 AI Engineer internship at **Evento Global** — shipped production web experiences
 - 🏎️ Creator of [**Inside F1**](https://www.insidef1.info) — interactive 3D Formula 1 experience
 
@@ -59,6 +59,7 @@ I'm a **Full-Stack AI Engineer** and BITS Pilani Dubai CS graduate (2021–2025)
 ![FAISS](https://img.shields.io/badge/FAISS-0055FF?style=for-the-badge&logo=meta&logoColor=white)
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
