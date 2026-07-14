@@ -25,10 +25,11 @@ I'm a **Full-Stack AI Engineer** and BITS Pilani Dubai CS graduate (2021–2025)
 
 ### 🌐 Socials:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-omgupta.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://omgupta.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-gupta-2601b9229)
+[![Portfolio](https://img.shields.io/badge/Portfolio-www.om--gupta.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.om-gupta.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-om--gupta--2601b9229-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-gupta-2601b9229)
 [![GitHub](https://img.shields.io/badge/GitHub-guptaom31619-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guptaom31619)
 [![Email](https://img.shields.io/badge/Email-guptaom31619%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaom31619@gmail.com)
+[![Email](https://img.shields.io/badge/Email-omg767430%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omg767430@gmail.com)
 
 ---
 
@@ -122,7 +123,7 @@ I'm a **Full-Stack AI Engineer** and BITS Pilani Dubai CS graduate (2021–2025)
 
 Building AI products end-to-end — architecture → product → deployment.
 
-**[Portfolio](https://omgupta.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/om-gupta-2601b9229)** · **[Email](mailto:guptaom31619@gmail.com)**
+**[Portfolio](https://www.om-gupta.com)** · **[LinkedIn](https://www.linkedin.com/in/om-gupta-2601b9229)** · **[guptaom31619@gmail.com](mailto:guptaom31619@gmail.com)** · **[omg767430@gmail.com](mailto:omg767430@gmail.com)**
 
 <br/>
 
