@@ -83,8 +83,8 @@ I'm a **Full-Stack AI Engineer** and BITS Pilani Dubai CS graduate (2021–2025)
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guptaom31619&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Om Gupta GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaom31619&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=guptaom31619&show_icons=true&theme=tokyonight&hide_border=true" alt="Om Gupta GitHub stats" />
+  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=guptaom31619&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 <br/>
