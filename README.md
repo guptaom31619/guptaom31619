@@ -12,10 +12,10 @@
 
 <br/>
 
-I'm a **Full-Stack & Applied AI Engineer** and BITS Pilani Dubai CS graduate (2021–2025), currently based in **Hyderabad, India**. I love building production AI systems — not just demos — across **Gen AI**, **Agentic AI**, RAG, multi-agent platforms, ML pipelines, computer vision, and cloud-native apps on **GCP and AWS**.
+I'm an **Applied AI Engineer** and BITS Pilani Dubai CS graduate (2021–2025), currently based in **Hyderabad, India**. I love building production AI systems — not just demos — across **Gen AI**, **Agentic AI**, RAG, multi-agent platforms, ML pipelines, computer vision, and cloud-native apps on **GCP and AWS**.
 
 ### Some highlights:
-- 🏗️ **Software Engineer at YNM Safety** (Nov 2025 – Present) — shipping CRM, ERP, HRMS, AI tooling, and cloud platforms on GCP & AWS
+- 🏗️ **Applied AI Engineer at YNM Safety** (Nov 2025 – Present) — YNM Safety website, CRM & Price Engine, AI Vastu detection, HRMS, ERP, resume parsing, YNM Drishti website, and accounts receivables portal
 - 🤖 Shipping **Gen AI / Agentic AI** systems — **RAG**, **LangGraph** multi-agent platforms, and LLM tooling end-to-end
 - 🧠 Building **computer vision**, **quant trading**, and **geopolitical intelligence** projects
 - ☁️ Deploying on **GCP & AWS / Docker / CI-CD** with clean architecture and real product UX
