@@ -12,11 +12,11 @@
 
 <br/>
 
-I'm a **Full-Stack AI Engineer** and BITS Pilani Dubai CS graduate (2021–2025), currently based in **Hyderabad, India**. I love building production AI systems — not just demos — across RAG, multi-agent platforms, ML pipelines, computer vision, and cloud-native apps on **GCP and AWS**.
+I'm a **Full-Stack & Applied AI Engineer** and BITS Pilani Dubai CS graduate (2021–2025), currently based in **Hyderabad, India**. I love building production AI systems — not just demos — across **Gen AI**, **Agentic AI**, RAG, multi-agent platforms, ML pipelines, computer vision, and cloud-native apps on **GCP and AWS**.
 
 ### Some highlights:
 - 🏗️ **Software Engineer at YNM Safety** (Nov 2025 – Present) — shipping CRM, ERP, HRMS, AI tooling, and cloud platforms on GCP & AWS
-- 🤖 Shipping **RAG systems**, **LangGraph multi-agent platforms**, and LLM tooling end-to-end
+- 🤖 Shipping **Gen AI / Agentic AI** systems — **RAG**, **LangGraph** multi-agent platforms, and LLM tooling end-to-end
 - 🧠 Building **computer vision**, **quant trading**, and **geopolitical intelligence** projects
 - ☁️ Deploying on **GCP & AWS / Docker / CI-CD** with clean architecture and real product UX
 - 💼 **AI Engineer Intern at Evento Global** (Jul 2025 – Oct 2025) — shipped production web experiences
@@ -50,15 +50,23 @@ I'm a **Full-Stack AI Engineer** and BITS Pilani Dubai CS graduate (2021–2025)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GenAI](https://img.shields.io/badge/Gen%20AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+![AgenticAI](https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge&logo=robotframework&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white)
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-F59E0B?style=for-the-badge&logo=dataiku&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0055FF?style=for-the-badge&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
